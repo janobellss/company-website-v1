@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-company-website-v1/static/css/main.81d9670a.chunk.css",
+    "main.css": "/react-company-website-v1/static/css/main.d6a53374.chunk.css",
     "main.js": "/react-company-website-v1/static/js/main.b3f7b36f.chunk.js",
     "main.js.map": "/react-company-website-v1/static/js/main.b3f7b36f.chunk.js.map",
     "runtime-main.js": "/react-company-website-v1/static/js/runtime-main.aa217be8.js",
@@ -8,15 +8,15 @@
     "static/js/2.4cee1804.chunk.js": "/react-company-website-v1/static/js/2.4cee1804.chunk.js",
     "static/js/2.4cee1804.chunk.js.map": "/react-company-website-v1/static/js/2.4cee1804.chunk.js.map",
     "index.html": "/react-company-website-v1/index.html",
-    "precache-manifest.dcd38333d0e8e8e9995af8c5a5c8ac58.js": "/react-company-website-v1/precache-manifest.dcd38333d0e8e8e9995af8c5a5c8ac58.js",
+    "precache-manifest.2bfb91cd73819cd26a97a51b6aa44312.js": "/react-company-website-v1/precache-manifest.2bfb91cd73819cd26a97a51b6aa44312.js",
     "service-worker.js": "/react-company-website-v1/service-worker.js",
-    "static/css/main.81d9670a.chunk.css.map": "/react-company-website-v1/static/css/main.81d9670a.chunk.css.map",
+    "static/css/main.d6a53374.chunk.css.map": "/react-company-website-v1/static/css/main.d6a53374.chunk.css.map",
     "static/js/2.4cee1804.chunk.js.LICENSE": "/react-company-website-v1/static/js/2.4cee1804.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.aa217be8.js",
     "static/js/2.4cee1804.chunk.js",
-    "static/css/main.81d9670a.chunk.css",
+    "static/css/main.d6a53374.chunk.css",
     "static/js/main.b3f7b36f.chunk.js"
   ]
 }
